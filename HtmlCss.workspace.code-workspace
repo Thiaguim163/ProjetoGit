@@ -27,6 +27,7 @@
 			"activityBarBadge.background": "#155e02",
 			"activityBarBadge.foreground": "#e7e7e7"
 		},
-		"peacock.color": "#dd0531"
+		"peacock.color": "#dd0531",
+		"liveServer.settings.multiRootWorkspaceName": "Projeto_Awax"
 	}
 }
